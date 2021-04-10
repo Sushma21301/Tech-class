@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "40280478171",
+    "firebase_url": "https://eclassroom-d049c.firebaseio.com",
+    "project_id": "eclassroom-d049c",
+    "storage_bucket": "eclassroom-d049c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40280478171:android:3a3d7356ef5c9bf1a2d7fe",
+        "android_client_info": {
+          "package_name": "eclass.signin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40280478171-cc68romfvoqf9pg9rkpsfn9sfd0ntrka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIhRONsOytnxcuNsXk6LSafjAbWkKM_fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40280478171-cc68romfvoqf9pg9rkpsfn9sfd0ntrka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
