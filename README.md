@@ -9,6 +9,15 @@ It bringsforth all features necessary during an online class in one apllication 
 installations by user!
 
 
+Important links:
+
+- AgoraSDK (https://www.agora.io/en/)
+- echoAR (https://www.echoar.xyz/)[future implementation]
+- newsAPI(https://newsapi.org/)
+- FirebaseMLKit for OCR [future implementation]
+
+
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
