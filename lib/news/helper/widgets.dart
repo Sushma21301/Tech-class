@@ -23,7 +23,7 @@ Widget MyAppBar(){
         )
       ],
     ),
-    backgroundColor: Colors.transparent,
+    backgroundColor: Colors.deepPurple,
     elevation: 0.0,
   );
 }
