@@ -33,6 +33,7 @@ class IndexState extends State<IndexPage> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Video session'),
+        backgroundColor: Colors.pinkAccent,
         leading: IconButton(icon: Icon(Icons.arrow_back), onPressed:(){
           Navigator.push(
               context,
@@ -97,7 +98,7 @@ class IndexState extends State<IndexPage> {
                       child: RaisedButton(
                         onPressed: onJoin,
                         child: Text('Join'),
-                        color: Colors.blueAccent,
+                        color: Colors.pinkAccent,
                         textColor: Colors.white,
                       ),
                     )
