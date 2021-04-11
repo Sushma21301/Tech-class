@@ -1,10 +1,13 @@
-# signin_app
+# TechClass
 
 A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project focuses on providing interactive application for teachers and students!
+It bringsforth all features necessary during an online class in one apllication reducing the need for multiple app
+installations by user!
+
 
 A few resources to get you started if this is your first Flutter project:
 
