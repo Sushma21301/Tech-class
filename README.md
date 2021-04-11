@@ -8,7 +8,7 @@ This project focuses on providing interactive application for teachers and stude
 It bringsforth all features necessary during an online class in one apllication reducing the need for multiple app
 installations by user!
 
-
+//
 Important links:
 
 - AgoraSDK (https://www.agora.io/en/)
