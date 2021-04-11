@@ -1,7 +1,8 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:Fab4/groups/group.dart';
+import 'package:signin_app/groups/group.dart';
+import 'package:signin_app/splash.dart';
 import 'register.dart';
 
 Future<void> main() async {
@@ -22,7 +23,7 @@ class MyApp extends StatelessWidget {
       // theme: ThemeData(
       //   primarySwatch: Colors.deepPurple,
       // ),
-      home: Home(),
+      home: SplashScreen(),
     );
   }
 }
